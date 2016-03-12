@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=xfdashboard (Budgie Desktop)
+Comment=display dashboard
+Icon=xfdashboard
+Exec=python3 /usr/share/budgie-remix/define-custom-keyboard-shortcut.py 'xfdashboard' '/usr/bin/xfdashboard -t' '<Ctrl>Tab'
+TryExec=
+Terminal=false
+Type=Application
+NoDisplay=true
+OnlyShowIn=Budgie;

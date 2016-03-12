@@ -1,0 +1,17 @@
+[Xfdashboard Theme]
+Name=xfdashboard-dark
+Name[es]=xfdashboard-dark
+Name[fr]=sombre xfdashboard
+Name[lt]=xfdashboard-tamsi
+Name[sr]=Полетник тамни
+Comment=Dark theme for xfdashboard
+Comment[es]=Tema de color oscuro para el xfdashboard
+Comment[fr]=Thème sombre pour xfdashboard
+Comment[lt]=Tamsi xfdashboard tema
+Comment[sr]=Тамна тема полетника
+Style=xfdashboard-dark.css
+Layout=xfdashboard.xml;xfdashboard-secondary.xml
+Effects=effects.xml
+Author=lacios
+Version=0.5.90
+Screenshot=screenshot-xfdashboard-dark.png

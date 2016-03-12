@@ -1,0 +1,16 @@
+Source: budgie-xfdashboard
+Section: misc
+Priority: optional
+Maintainer: fossfreedom <foss.freedom@gmail.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.6
+Homepage: https://github.com/budgie-remix
+Vcs-Browser: https://github.com/budgie-remix/budgie-xfdashboard
+
+Package: budgie-xfdashboard
+Architecture: all
+Section: misc
+Depends: xfdashboard,
+         ${misc:Depends}
+Description: Budgie dashboard
+ dashboard for budgie
