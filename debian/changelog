@@ -1,3 +1,9 @@
+budgie-xfdashboard (0.2.0-1) xenial; urgency=medium
+
+  * make shortcuts visible in the menu
+
+ -- fossfreedom <foss.freedom@gmail.com>  Sat, 26 Mar 2016 11:43:19 +0000
+
 budgie-xfdashboard (0.1-1) xenial; urgency=medium
 
   * Initial release (as it's own module).

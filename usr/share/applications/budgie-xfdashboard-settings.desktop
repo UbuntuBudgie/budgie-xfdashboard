@@ -1,0 +1,24 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Xfdashboard settings
+Name[es]=Ajustes de Xfdashboard
+Name[fr]=Paramètres xfdashboard
+Name[he]=הגדרות Xfdashboard
+Name[lt]=Xfdashboard nustatymai
+Name[sr]=Поставке полетника Иксфце-а
+Comment=Configure xfdashboard
+Comment[es]=Configurar Xfdashboard
+Comment[fr]=Configurer xfdashboard
+Comment[he]=תצורת xfdashboard
+Comment[lt]=Konfigūruoti xfdashboard
+Comment[sr]=Подесите полетника Иксфце-а
+GenericName=Xfdashboard settings
+TryExec=/usr/bin/xfdashboard-settings
+Exec=/usr/bin/xfdashboard-settings
+Icon=xfdashboard
+Categories=XFCE;GTK;Settings;DesktopSettings;X-XFCE-SettingsDialog;X-XFCE-PersonalSettings;
+OnlyShowIn=Budgie;
+Terminal=false
+StartupNotify=true
+X-XfcePluggable=true

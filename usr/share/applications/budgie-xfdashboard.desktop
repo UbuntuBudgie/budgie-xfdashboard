@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name=Xfdashboard
+Name[es]=Xfdashboard
+Name[fr]=Xfdashboard
+Name[it_IT]=Xfdashboard
+Name[lt]=Xfdashboard
+Name[sr]=Полетник Иксфце-а
+Comment=Maybe a Gnome shell like dashboard for Xfce
+Comment[es]=Tal vez un intérprete de órdenes a modo de panel para Xfce
+Comment[fr]=Peut-être un shell GNOME comme un tableau de bord pour Xfce
+Comment[he]=אולי לוח מחוונים דומה Gnome עבור Xfce
+Comment[lt]=Galbūt, į Gnome apvalkalą panašus skydelis, skirtas Xfce
+Comment[sr]=Полетник Иксфце-а који подсећа на Гномову шкољку
+GenericName=Xfdashboard
+TryExec=/usr/bin/xfdashboard
+Exec=/usr/bin/xfdashboard
+Icon=xfdashboard
+Categories=System;
+OnlyShowIn=Budgie;
+Terminal=false
